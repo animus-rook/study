@@ -1,0 +1,1 @@
+Demanding payment to prevent the release of information.

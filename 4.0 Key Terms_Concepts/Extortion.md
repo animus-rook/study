@@ -1,0 +1,1 @@
+Demanding payment to prevent or halt some type of attack.

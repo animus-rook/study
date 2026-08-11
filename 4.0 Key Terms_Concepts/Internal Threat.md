@@ -1,0 +1,1 @@
+A type of threat actor who is assigned privileges on the system and causes an intentional or unintentional incident.

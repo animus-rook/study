@@ -1,0 +1,1 @@
+An inexperienced, unskilled attacker that typically uses tools or scripts created by others.

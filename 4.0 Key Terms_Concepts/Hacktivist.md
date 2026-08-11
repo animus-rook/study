@@ -1,0 +1,1 @@
+A threat actor that is motivated by a social issue or political cause.

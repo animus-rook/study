@@ -1,0 +1,3 @@
+
+> [!NOTE] Definition
+> In a star network, each node is connected to a central point, typically a switch or a router. The central point mediates communications between the attached nodes. When a device such as a hub is used, the hub receives signals from a node and repeats the signal to all other connected nodes. Therefore the bandwidth is still shared between all nodes. When a device such as a switch is used, point-to-point links are established between each node as required. The circuit established between the two nodes can use the full bandwidth capacity of the network media.

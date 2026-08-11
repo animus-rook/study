@@ -1,0 +1,1 @@
+The CIA triad represents the three pillars of information security: confidentiality, integrity, and availability

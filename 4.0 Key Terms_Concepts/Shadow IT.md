@@ -1,0 +1,1 @@
+Computer hardware, software, or services used on a private network without authorization from the system owner.

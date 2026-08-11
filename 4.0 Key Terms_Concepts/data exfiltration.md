@@ -1,0 +1,1 @@
+The process by which an attacker takes data that is stored inside of a private network and moves it to an external network.

@@ -1,0 +1,2 @@
+> [!NOTE] Definition
+> On a computer that receives data over a network, the process in which the device interprets the lower layer headers and, when finished with each header removes the header, revealing the next higher layer PDU.

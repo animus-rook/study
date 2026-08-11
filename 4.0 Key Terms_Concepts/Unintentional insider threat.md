@@ -1,0 +1,1 @@
+A threat actor that causes a vulnerability or exposes an attack vector without malicious intent.

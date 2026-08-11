@@ -1,0 +1,1 @@
+A type of attack that compromises the availability of an asset or business process.

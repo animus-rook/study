@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "c87443bc15958c3e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8c980ddf962257b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19945a07fa3acaa2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "64bcaaac18f54dc7",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f7dcfb0d9f4fdc9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f7971f05ce06ffa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "30bb67a851454be2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2632fde84b02b08d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c6d668185807f560",
+    "type": "split",
+    "children": [
+      {
+        "id": "cac6b0825342a57e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e416ecf998782fb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CCNA/Key Terms/Electromagnetic Interference.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Electromagnetic Interference"
+            }
+          },
+          {
+            "id": "d24195baf582ae75",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CCNA/CCNA Notes/Chapter 2 Fundamentals of Ethernet LAN's.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Chapter 2 Fundamentals of Ethernet LAN's"
+            }
+          },
+          {
+            "id": "43cc1d4a02a79bdd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "666579a960832ecc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CCNA/CCNA Notes/Chapter 3 Fundamentals of WANs and IP Routing.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Chapter 3 Fundamentals of WANs and IP Routing"
+            }
+          },
+          {
+            "id": "a364621d6f8fdaa7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "publish:Publish changes...": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "19945a07fa3acaa2",
+  "lastOpenFiles": [
+    "Pasted image 20250326084625.png",
+    "Untitled.md",
+    "CAL Labs/Office Network Design and Implementation.md",
+    "Addressing.md",
+    "CCNA/Extras/Labs/CCNA LABS.md",
+    "CCNA/Extras/Labs/Lab 1 - Networking Basics.md",
+    "CCNA/CCNA Notes/Chapter 4 Using The Command Line.md",
+    "CompTIA Network Plus/1.0 Open Systems Interconnection Model/SOHO Networks.md",
+    "CAL Labs",
+    "CompTIA Network Plus/1.0 Open Systems Interconnection Model/OSI Model Concepts.md",
+    "CCNA/CCNA Notes/Chapter 3 Fundamentals of WANs and IP Routing.md",
+    "CCNA/CCNA Notes/Chapter 2 Fundamentals of Ethernet LAN's.md",
+    "CCNA/CCNA Notes/Chapter 1 Introduction to TCP_IP Networking.md",
+    "CCNA/CCNA Notes/DO I KNOW THIS Quiz - All Chapters.md",
+    "CCNA/CCNA Study Resources/CCNA Exam Prep.md",
+    "CCNA/CCNA Study Resources/CCNA v1.1 Exam Objectives.md",
+    "CCNA/Extras/CCNA_chapter_to_exam_objectives.pdf",
+    "CCNA/Extras/CCNA 200-301 Study notes.pdf",
+    "Key Terms/Signaling.md",
+    "Key Terms/Network Protocol.md",
+    "README.md",
+    "Long term Storage/Cloud/symm.png",
+    "Untitled/desktop.ini",
+    "CompTIA Network Plus/1.0 Open Systems Interconnection Model",
+    "CompTIA Network Plus",
+    "Long term Storage/Cloud/shared-responsibility.svg",
+    "Resource Bank/Pasted image 20250106141236.png",
+    "Long term Storage/Git/progit Book.pdf",
+    "Long term Storage/Git/Pasted image 20240524214934.png",
+    "Long term Storage/Cloud/nistspecialpublication800-145.pdf",
+    "Long term Storage/Cloud/Azure/encryptpic.png",
+    "Long term Storage/Cloud/Azure/Encryption Basics.md",
+    "Resource Bank/802.3 ethernet frame.png",
+    "Resource Bank/Encapsulation and Decapsulation Routers.png",
+    "Long term Storage/Cloud/asym.png",
+    "Key Terms/ARP - Address Resolution Protocol.md",
+    "Key Terms/Ethernet WAN.md",
+    "The schematic illustrates the process of routers de-encapsulating and re-encapsulating I P packets as they travel from P C 1 to P C 2's I P address..url",
+    "Serial Interface.md",
+    "Telco.md",
+    "Key Terms/Leased Line.md",
+    "Key Terms/HDLC.md",
+    "Key Terms/WAN - Wide Area Network.md",
+    "CCNA/Extras/InstructorsubnetworkbookV2.pdf",
+    "Resource Bank/MUmode vs singlemode.png"
+  ]
+}

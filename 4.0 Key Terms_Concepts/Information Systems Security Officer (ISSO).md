@@ -1,0 +1,1 @@
+Organizational role with technical responsibilities for implementation of security policies, frameworks, and controls.
