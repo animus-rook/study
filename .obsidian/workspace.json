@@ -1,0 +1,256 @@
+{
+  "main": {
+    "id": "c87443bc15958c3e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce81b7cb03949589",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80e19f5214e48b81",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "64bcaaac18f54dc7",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f7dcfb0d9f4fdc9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f7971f05ce06ffa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "30bb67a851454be2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2632fde84b02b08d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c6d668185807f560",
+    "type": "split",
+    "children": [
+      {
+        "id": "cac6b0825342a57e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e416ecf998782fb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CCNA/CCNA Notes/Chapter 4 Using The Command Line.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Chapter 4 Using The Command Line"
+            }
+          },
+          {
+            "id": "d24195baf582ae75",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CCNA/CCNA Notes/Chapter 4 Using The Command Line.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Chapter 4 Using The Command Line"
+            }
+          },
+          {
+            "id": "43cc1d4a02a79bdd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "666579a960832ecc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Network Plus/4.6.2 - Duplicate IP and MAC Address Issues.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 4.6.2 - Duplicate IP and MAC Address Issues"
+            }
+          },
+          {
+            "id": "a364621d6f8fdaa7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
+            }
+          },
+          {
+            "id": "5c69949aac003822",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f38a38f9c73e12d2",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "1.0_Milestone Assessment.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "publish:Publish changes...": false
+    }
+  },
+  "active": "3f7971f05ce06ffa",
+  "lastOpenFiles": [
+    "secplus-detection-notes/16-resources/README.md",
+    "secplus-detection-notes/16-resources",
+    "secplus-detection-notes/15-weekly-reviews/README.md",
+    "secplus-detection-notes/15-weekly-reviews",
+    "secplus-detection-notes/14-homelab-soc/README.md",
+    "secplus-detection-notes/14-homelab-soc",
+    "secplus-detection-notes/13-phishing-analysis/README.md",
+    "secplus-detection-notes/13-phishing-analysis",
+    "secplus-detection-notes/12-threat-hunting/README.md",
+    "secplus-detection-notes/12-threat-hunting",
+    "secplus-detection-notes/11-detection-engineering/README.md",
+    "secplus-detection-notes/11-detection-engineering",
+    "secplus-detection-notes/10-mitre-attack-threat-intel/README.md",
+    "secplus-detection-notes/10-mitre-attack-threat-intel",
+    "secplus-detection-notes/09-siem-log-analysis/README.md",
+    "secplus-detection-notes/09-siem-log-analysis",
+    "secplus-detection-notes/08-reporting-communication/README.md",
+    "secplus-detection-notes/08-reporting-communication",
+    "secplus-detection-notes/07-incident-response-forensics/README.md",
+    "secplus-detection-notes/07-incident-response-forensics",
+    "secplus-detection-notes/06-vulnerability-management/README.md",
+    "secplus-detection-notes/05-governance-compliance/README.md",
+    "secplus-detection-notes/04-security-operations/README.md",
+    "secplus-detection-notes/03-security-architecture/README.md",
+    "secplus-detection-notes/02-threats-vulns/README.md",
+    "secplus-detection-notes/01-security-fundamentals/README.md",
+    "secplus-detection-notes/Study Plan.md",
+    "secplus-detection-notes/README.md",
+    "1.0 Notes/Security/Exam Objectives/1.1 Compare and contrast various types of security controls..md",
+    "5.0 Templates/incident-report.md",
+    "5.0 Templates/concept-card.md",
+    "5.0 Templates/weekly-review.md",
+    "5.0 Templates/Template Concepts.md",
+    "5.0 Templates/Template Hands-On Lab.md",
+    "5.0 Templates/Template Tool Reference.md",
+    "5.0 Templates/Template Video Resource.md",
+    "2.0 Resource Bank/Pasted image 20260708151536.png",
+    "2.0 Resource Bank/Pasted image 20260708151505.png",
+    "2.0 Resource Bank/Pasted image 20260708151448.png",
+    "2.0 Resource Bank/802.3 ethernet frame.png",
+    "2.0 Resource Bank/Pasted image 20250326084625.png",
+    "2.0 Resource Bank/Crossover.png",
+    "1.0 Notes/Cloud/symm.png",
+    "1.0 Notes/Cloud/shared-responsibility.svg",
+    "2.0 Resource Bank/Pasted image 20250106141236.png",
+    "Long term Storage/Git/Pasted image 20240524214934.png"
+  ]
+}

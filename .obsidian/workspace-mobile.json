@@ -1,34 +1,20 @@
 {
   "main": {
-    "id": "6afe8220078f9197",
+    "id": "d1b016b3964a0c8b",
     "type": "split",
     "children": [
       {
-        "id": "681ae9d91fde4031",
+        "id": "d04bcc2fe08b5574",
         "type": "tabs",
         "children": [
           {
-            "id": "38f44c4e540ce220",
+            "id": "0c15bebb4cea60c0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.0 Notes/CCNA/Notes/Chapter 1 Introduction to TCP_IP Networking.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Chapter 1 Introduction to TCP_IP Networking"
+              "title": "New tab"
             }
           }
         ]
@@ -37,26 +23,23 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4126852b5674946f",
+    "id": "2cfe35e4d8297738",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "96548db898967d9b",
+        "id": "8472a7f604259920",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical",
-            "autoReveal": false,
-            "showSearch": false,
-            "searchQuery": ""
+            "sortOrder": "alphabetical"
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
         }
       },
       {
-        "id": "a9cf60fa7367efd5",
+        "id": "aa8ce3f9b38dcee3",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -73,36 +56,20 @@
         }
       },
       {
-        "id": "4d3b4763f6678d3d",
+        "id": "47dbe8aa1ea764fd",
         "type": "leaf",
         "state": {
           "type": "tag",
           "state": {
             "sortOrder": "frequency",
-            "useHierarchy": true,
-            "showSearch": false,
-            "searchQuery": ""
+            "useHierarchy": true
           },
           "icon": "lucide-tags",
           "title": "Tags"
         }
       },
       {
-        "id": "01df362b1e59a63c",
-        "type": "leaf",
-        "state": {
-          "type": "all-properties",
-          "state": {
-            "sortOrder": "frequency",
-            "showSearch": false,
-            "searchQuery": ""
-          },
-          "icon": "lucide-ghost",
-          "title": "all-properties"
-        }
-      },
-      {
-        "id": "8b4a53c9c086e8ac",
+        "id": "ad7926601881e329",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -115,16 +82,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "3c72a2ed9aa2d73c",
+    "id": "d7eb106834b70957",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "5ca974a03d70144a",
+        "id": "9e79380d2714570d",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Resource Bank/Encapsulation and Decapsulation Routers.png",
+            "file": "TTRPG/SWN/The Divide Overview.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -138,12 +105,11 @@
         }
       },
       {
-        "id": "19d61eaa4d914929",
+        "id": "61a10217f005de17",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "CCNA/CCNA Notes/Chapter 4 Using The Command Line.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -152,15 +118,12 @@
         }
       },
       {
-        "id": "4db9bbf2fa293db9",
+        "id": "beb41cf079b5b633",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "CCNA/CCNA Notes/Chapter 4 Using The Command Line.md",
-            "followCursor": false,
-            "showSearch": false,
-            "searchQuery": ""
+            "file": "CCNA/CCNA Notes/Chapter 3 Fundamentals of WANs and IP Routing.md"
           },
           "icon": "lucide-list",
           "title": "Outline"
@@ -171,63 +134,51 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "publish:Publish changes...": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "38f44c4e540ce220",
+  "active": "0c15bebb4cea60c0",
   "lastOpenFiles": [
-    "1.0 Notes/CCNA/Notes/Chapter 4 Using The Command Line.md",
-    "2.0 Resource Bank/Encapsulation and Decapsulation Routers.png",
-    "1.0 Notes/Security+/2.0 Labs/Lab Index.md",
-    "1.0 Notes/Security+/1.0 Notes/2.0 Threats, Vulnerabilities and Mitigations.md",
-    "1.0 Notes/Security+/1.0 Notes/1.0 Security Concepts.md",
-    "Pasted image 20260708151448.png",
-    "1.0 Notes/Security+/README.md",
-    "Pasted image 20260708151536.png",
-    "Pasted image 20260708151505.png",
-    "4.0 Key Terms_Concepts/Authorized hacker.md",
-    "4.0 Key Terms_Concepts/Internal Threat.md",
-    "4.0 Key Terms_Concepts/Shadow IT.md",
-    "4.0 Key Terms_Concepts/Unintentional insider threat.md",
-    "4.0 Key Terms_Concepts/Unskilled attacker.md",
-    "4.0 Key Terms_Concepts/Organized Crime.md",
-    "4.0 Key Terms_Concepts/Hacktivist.md",
-    "4.0 Key Terms_Concepts/Unauthorized hacker.md",
-    "4.0 Key Terms_Concepts/data exfiltration.md",
-    "4.0 Key Terms_Concepts/Fraud.md",
-    "4.0 Key Terms_Concepts/Extortion.md",
-    "4.0 Key Terms_Concepts/Blackmail.md",
-    "4.0 Key Terms_Concepts/Service Disruption.md",
-    "4.0 Key Terms_Concepts/Internal_External.md",
-    "4.0 Key Terms_Concepts/Hacker.md",
-    "4.0 Key Terms_Concepts/Supply chain.md",
-    "4.0 Key Terms_Concepts/Resources_funding.md",
-    "4.0 Key Terms_Concepts/Nation-state.md",
-    "4.0 Key Terms_Concepts/APT - Advanced persistent threat.md",
-    "4.0 Key Terms_Concepts/Threat Actor.md",
-    "4.0 Key Terms_Concepts/Disinformation.md",
-    "1.0 Notes/Security+/Exam Objectives",
-    "6.0 Artifacts",
-    "4.0 Key Terms_Concepts",
-    "Resource Bank/Encapsulation and Decapsulation Routers.png",
-    "5.0 Templates",
-    "1.0 Notes/Security+/2.0 Labs",
-    "1.0 Notes/Security+/1.0 Notes",
-    "1.0 Notes/Cloud/shared-responsibility.svg",
-    "1.0 Notes/Cloud/asym.png",
-    "1.0 Notes/Cloud/nistspecialpublication800-145.pdf",
-    "1.0 Notes/Cloud/symm.png",
-    "1.0 Notes/Cloud/Azure/encryptpic.png",
-    "1.0 Notes/Cloud/Azure/Cybrary.it/AZ-900 Microsoft Azure Fundamentals (Cybrary)",
-    "1.0 Notes/Cloud/Azure/O'Reilly Media/AZ-900 MS Azure Fundamentals (Videos)",
-    "1.0 Notes/Cloud/Azure/O'Reilly Media",
-    "2.0 Resource Bank/MUmode vs singlemode.png"
+    "TTRPG/SWN/The Divide Overview.md",
+    "The schematic illustrates the process of routers de-encapsulating and re-encapsulating I P packets as they travel from P C 1 to P C 2's I P address..url",
+    "CCNA/Key Terms/Ethernet WAN.md",
+    "CCNA/Pasted image 20250106141236.png",
+    "CCNA/Key Terms/IP Packet.md",
+    "CCNA/Key Terms/ARP - Address Resolution Protocol.md",
+    "CCNA/Encapsulation and Decapsulation Routers.png",
+    "TTRPG/SWN/Session 1 Call to the Rift.md",
+    "TTRPG/Planets.md",
+    "TTRPG/The Strange/Fleshed out.md",
+    "TTRPG/The Strange/Session 1 - The Heist.md",
+    "TTRPG/The Strange/Fables and Felonies.md",
+    "CCNA/CCNA Notes/Chapter 3 Fundamentals of WANs and IP Routing.md",
+    "CCNA/CCNA Notes/Chapter 2 Fundamentals of Ethernet LAN's.md",
+    "IP Packet.md",
+    "CCNA/Key Terms/Unicast Address.md",
+    "CCNA/Key Terms/Frame Check Sequence.md",
+    "README.md",
+    "CCNA/Key Terms/Ethernet.md",
+    "Resource Bank/MUmode vs singlemode.png",
+    "CCNA/Key Terms/WAN - Wide Area Network.md",
+    "Resource Bank/802.3 ethernet frame.png",
+    "CCNA/Key Terms/Electromagnetic Interference.md",
+    "CCNA/Key Terms/Media Access Control (MAC) addresses.md",
+    "CCNA/CCNA Study Resources/CCNA Study Plan - 14Wk.md",
+    "CCNA/Key Terms/RJ-45.md",
+    "CCNA/Key Terms/Small Form-Factor Pluggable Plus (SFP+).md",
+    "CCNA/Key Terms/Multicast Addresses.md",
+    "CCNA/Key Terms/Crossover Cable.md",
+    "CCNA/Key Terms/Fiber-Optic Cable.md",
+    "CCNA/Key Terms/Multimode Fiber.md",
+    "CCNA/Extras/CCNA_chapter_to_exam_objectives.pdf",
+    "CCNA/Extras/Labs",
+    "CCNA/Extras/CCNA 200-301 Study notes.pdf",
+    "CCNA/Extras"
   ]
 }
