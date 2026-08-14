@@ -41,4 +41,4 @@ CompTIA Security+ (SY0-701), CompTIA CySA+ (CS0-004), Blue Team Level 1
 - [x] Google Project Management Certificate
 - [x] Calbright College Network Technology Certificate (Jan 2026)
 
-See [`Study Plan.md`](./Study%20Plan.md) for the full 7-month, three-certification roadmap.
+See [`Study Plan.md`](Future%20Layout/Study%20Plan.md) for the full 7-month, three-certification roadmap.
