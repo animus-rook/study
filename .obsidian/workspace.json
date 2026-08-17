@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.0 Key Terms_Concepts/(MAC) Media Access Control addresses.md",
+                "file": "1.0 Notes/Security +/1.0 Notes/4.0 Identity and Access Management.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "(MAC) Media Access Control addresses"
+              "title": "4.0 Identity and Access Management"
             }
           }
         ]
@@ -220,8 +220,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3f7971f05ce06ffa",
+  "active": "80e19f5214e48b81",
   "lastOpenFiles": [
+    "1.0 Notes/Security +/1.0 Notes/2.0 Threats, Vulnerabilities and Mitigations.md",
+    "1.0 Notes/Security +/1.0 Notes/4.0 Identity and Access Management.md",
+    "1.0 Notes/Security +/Exam Objectives/5.1 Summarize elements of effective security governance.md",
+    "1.0 Notes/Security +/Exam Objectives/4.6 Given a scenario, implement and maintain identity and access management.md",
+    "1.0 Notes/Security +/Exam Objectives/2.5 Explain the purpose of mitigation techniques used to secure the enterprise..md",
+    "1.0 Notes/Security +/Exam Objectives/1.2 Summarize fundamental security concepts..md",
+    "1.0 Notes/Security +/Exam Objectives/1.1 Compare and contrast various types of security controls..md",
+    "1.0 Notes/Security +/1.0 Notes/1.0 Security Concepts.md",
+    "5.0 Templates/Template Book Notes.md",
+    "5.0 Templates/concept-card.md",
+    "1.0 Notes/Security +/1.0 Notes/3.0 Cryptographic Solutions.md",
+    "4.0 Key Terms_Concepts/(MAC) Media Access Control addresses.md",
     "4.0 Key Terms_Concepts/(DevOps) Development and Operations.md",
     "4.0 Key Terms_Concepts/(ACLs) Access controls list.md",
     "README.md",
@@ -246,18 +258,6 @@
     "Future Layout/08-reporting-communication",
     "Future Layout/07-incident-response-forensics/README.md",
     "Future Layout/07-incident-response-forensics",
-    "Future Layout/06-vulnerability-management/README.md",
-    "Future Layout/05-governance-compliance/README.md",
-    "Future Layout/04-security-operations/README.md",
-    "Future Layout/03-security-architecture/README.md",
-    "Future Layout/02-threats-vulns/README.md",
-    "Future Layout/01-security-fundamentals/README.md",
-    "Future Layout/Study Plan.md",
-    "Future Layout/README.md",
-    "1.0 Notes/Security +/Exam Objectives/1.1 Compare and contrast various types of security controls..md",
-    "5.0 Templates/incident-report.md",
-    "5.0 Templates/concept-card.md",
-    "5.0 Templates/weekly-review.md",
     "2.0 Resource Bank/Pasted image 20260708151536.png",
     "2.0 Resource Bank/Pasted image 20260708151505.png",
     "2.0 Resource Bank/Pasted image 20260708151448.png",
