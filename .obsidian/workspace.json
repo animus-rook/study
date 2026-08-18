@@ -24,7 +24,7 @@
                   "showSearch": false,
                   "searchQuery": "",
                   "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                  "unlinkedCollapsed": false
                 }
               },
               "icon": "lucide-file",
@@ -222,8 +222,9 @@
   },
   "active": "80e19f5214e48b81",
   "lastOpenFiles": [
-    "1.0 Notes/Security +/1.0 Notes/2.0 Threats, Vulnerabilities and Mitigations.md",
+    "non-repudiation.md",
     "1.0 Notes/Security +/1.0 Notes/4.0 Identity and Access Management.md",
+    "1.0 Notes/Security +/1.0 Notes/2.0 Threats, Vulnerabilities and Mitigations.md",
     "1.0 Notes/Security +/Exam Objectives/5.1 Summarize elements of effective security governance.md",
     "1.0 Notes/Security +/Exam Objectives/4.6 Given a scenario, implement and maintain identity and access management.md",
     "1.0 Notes/Security +/Exam Objectives/2.5 Explain the purpose of mitigation techniques used to secure the enterprise..md",
@@ -256,7 +257,6 @@
     "Future Layout/09-siem-log-analysis",
     "Future Layout/08-reporting-communication/README.md",
     "Future Layout/08-reporting-communication",
-    "Future Layout/07-incident-response-forensics/README.md",
     "Future Layout/07-incident-response-forensics",
     "2.0 Resource Bank/Pasted image 20260708151536.png",
     "2.0 Resource Bank/Pasted image 20260708151505.png",
