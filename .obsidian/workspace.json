@@ -222,6 +222,12 @@
   },
   "active": "80e19f5214e48b81",
   "lastOpenFiles": [
+    "Zero Trust.md",
+    "1.0 Notes/Security +/1.0 Notes/Comptia_Testout/4.0 Identity and Access Management.md",
+    "AAA - Authentication-authorization and accounting.md",
+    "AAA - Authentication/authorization and accounting.md",
+    "AAA - Authentication",
+    "subjects-principals.md",
     "2.0 Tools/README.md",
     "7.0 Artifacts/Lab_20_-_Troubleshoot_a_Wireless_Connection.pdf",
     "7.0 Artifacts/Lab_19_-_Examine_NAT_on_a_Wireless_Router.pdf",
@@ -243,14 +249,12 @@
     "2.0 Tools",
     "6.0 Labs",
     "6.0 Artifacts/Untitled",
-    "1.0 Notes/Security +/1.0 Notes/Comptia_Testout/4.0 Identity and Access Management.md",
     "1.0 Notes/Security +/1.0 Notes/Books/Sec+ Chapple/Lammle_CompTIA Network (Plus).md",
     "1.0 Notes/Security +/1.0 Notes/Books/Sec+ Chapple/Chapple - Security+ Ch5.md",
     "1.0 Notes/Security +/1.0 Notes/Books/Sec+ Chapple/Chapple - Security+ Ch4.md",
     "1.0 Notes/Security +/1.0 Notes/Books/Sec+ Chapple/Chapple - Security+ Ch3.md",
     "1.0 Notes/Security +/1.0 Notes/Books/Sec+ Chapple/Chapple - Security+ Ch2.md",
     "1.0 Notes/Security +/1.0 Notes/Books/Sec+ Chapple/Chapple - Security+ Ch1.md",
-    "1.0 Notes/Security +/1.0 Notes/Books/Sec+ Chapple",
     "non-repudiation.md",
     "1.0 Notes/Security +/1.0 Notes/Comptia_Testout/2.0 Threats, Vulnerabilities and Mitigations.md",
     "1.0 Notes/Security +/Exam Objectives/5.1 Summarize elements of effective security governance.md",
@@ -263,9 +267,6 @@
     "5.0 Templates/concept-card.md",
     "1.0 Notes/Security +/1.0 Notes/Comptia_Testout/3.0 Cryptographic Solutions.md",
     "4.0 Key Terms_Concepts/(MAC) Media Access Control addresses.md",
-    "4.0 Key Terms_Concepts/(DevOps) Development and Operations.md",
-    "4.0 Key Terms_Concepts/(ACLs) Access controls list.md",
-    "README.md",
-    "6.0 Artifacts/1.0_Milestone Assessment.md"
+    "4.0 Key Terms_Concepts/(DevOps) Development and Operations.md"
   ]
 }
