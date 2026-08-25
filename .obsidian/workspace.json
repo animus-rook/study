@@ -223,8 +223,9 @@
   },
   "active": "80e19f5214e48b81",
   "lastOpenFiles": [
-    "Zero Trust.md",
+    "RBAC - role based access control.md",
     "1.0 Notes/Security +/1.0 Notes/Comptia_Testout/4.0 Identity and Access Management.md",
+    "Zero Trust.md",
     "AAA - Authentication-authorization and accounting.md",
     "AAA - Authentication/authorization and accounting.md",
     "AAA - Authentication",
@@ -267,7 +268,6 @@
     "5.0 Templates/Template Book Notes.md",
     "5.0 Templates/concept-card.md",
     "1.0 Notes/Security +/1.0 Notes/Comptia_Testout/3.0 Cryptographic Solutions.md",
-    "4.0 Key Terms_Concepts/(MAC) Media Access Control addresses.md",
-    "4.0 Key Terms_Concepts/(DevOps) Development and Operations.md"
+    "4.0 Key Terms_Concepts/(MAC) Media Access Control addresses.md"
   ]
 }
