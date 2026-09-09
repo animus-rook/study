@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.0 Notes/Security +/1.0 Notes/Comptia_Testout/4.0 Identity and Access Management.md",
+                "file": "1.0 Notes/Security +/1.0 Notes/Comptia_Testout/5.0 Network Architecture.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "4.0 Identity and Access Management"
+              "title": "5.0 Network Architecture"
             }
           }
         ]
@@ -222,8 +222,11 @@
   },
   "active": "80e19f5214e48b81",
   "lastOpenFiles": [
-    "REST - Representational State transfer.md",
+    "8.0 Resource Bank/OSI Summary.png",
+    "1.0 Notes/Security +/1.0 Notes/Comptia_Testout/5.0 Network Architecture.md",
+    "Attack Surface.md",
     "1.0 Notes/Security +/1.0 Notes/Comptia_Testout/4.0 Identity and Access Management.md",
+    "REST - Representational State transfer.md",
     "RBAC - role based access control.md",
     "Zero Trust.md",
     "AAA - Authentication-authorization and accounting.md",
@@ -264,9 +267,6 @@
     "1.0 Notes/Security +/Exam Objectives/2.5 Explain the purpose of mitigation techniques used to secure the enterprise..md",
     "1.0 Notes/Security +/Exam Objectives/1.2 Summarize fundamental security concepts..md",
     "1.0 Notes/Security +/Exam Objectives/1.1 Compare and contrast various types of security controls..md",
-    "1.0 Notes/Security +/1.0 Notes/Comptia_Testout/1.0 Security Concepts.md",
-    "5.0 Templates/Template Book Notes.md",
-    "5.0 Templates/concept-card.md",
-    "1.0 Notes/Security +/1.0 Notes/Comptia_Testout/3.0 Cryptographic Solutions.md"
+    "1.0 Notes/Security +/1.0 Notes/Comptia_Testout/1.0 Security Concepts.md"
   ]
 }
