@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.0 Notes/Security +/1.0 Notes/Comptia_Testout/5.0 Network Architecture.md",
+                "file": "1.0 Notes/Security +/1.0 Notes/Comptia_Testout/7.0 Vulnerability Management.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "5.0 Network Architecture"
+              "title": "7.0 Vulnerability Management"
             }
           }
         ]
@@ -222,8 +222,9 @@
   },
   "active": "80e19f5214e48b81",
   "lastOpenFiles": [
-    "8.0 Resource Bank/OSI Summary.png",
     "1.0 Notes/Security +/1.0 Notes/Comptia_Testout/5.0 Network Architecture.md",
+    "1.0 Notes/Security +/1.0 Notes/Comptia_Testout/7.0 Vulnerability Management.md",
+    "8.0 Resource Bank/OSI Summary.png",
     "Attack Surface.md",
     "1.0 Notes/Security +/1.0 Notes/Comptia_Testout/4.0 Identity and Access Management.md",
     "REST - Representational State transfer.md",
@@ -249,7 +250,6 @@
     "8.0 Resource Bank/Pasted image 20260625102232.png",
     "8.0 Resource Bank/Pasted image 20260625102021.png",
     "8.0 Resource Bank/Pasted image 20260625101833.png",
-    "8.0 Resource Bank/Pasted image 20260616102132.png",
     "1.0 Notes/Security +/1.0 Notes/Books/Sec+ Chapple/README.md",
     "2.0 Tools",
     "6.0 Labs",
