@@ -74,7 +74,7 @@ Attributes/characteristics of a threat actor can be broken down into
 	- disruption/choas - cause chaos and disrupt normal operations
 	- War
 ### Threat Vectors and Attack surfaces
-- [[Attack surface]] - system or application that contains exploitable vulnerability 
+- [[Attack Surface]] - system or application that contains exploitable vulnerability 
 - [[Threat Vector]] - the means that threat actors use to obtain access 
 #### Message based threat vectors
 - Email phishing campaigns

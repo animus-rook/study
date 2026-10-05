@@ -222,6 +222,13 @@
   },
   "active": "80e19f5214e48b81",
   "lastOpenFiles": [
+    "4.0 Key Terms_Concepts/Zero Trust.md",
+    "4.0 Key Terms_Concepts/REST - Representational State transfer.md",
+    "4.0 Key Terms_Concepts/RBAC - role based access control.md",
+    "4.0 Key Terms_Concepts/Attack Surface.md",
+    "4.0 Key Terms_Concepts/non-repudiation.md",
+    "4.0 Key Terms_Concepts/AAA - Authentication-authorization and accounting.md",
+    "4.0 Key Terms_Concepts/subjects-principals.md",
     "1.0 Notes/Security +/1.0 Notes/Comptia_Testout/5.0 Network Architecture.md",
     "1.0 Notes/Security +/1.0 Notes/Comptia_Testout/7.0 Vulnerability Management.md",
     "8.0 Resource Bank/OSI Summary.png",
@@ -260,13 +267,6 @@
     "1.0 Notes/Security +/1.0 Notes/Books/Sec+ Chapple/Chapple - Security+ Ch3.md",
     "1.0 Notes/Security +/1.0 Notes/Books/Sec+ Chapple/Chapple - Security+ Ch2.md",
     "1.0 Notes/Security +/1.0 Notes/Books/Sec+ Chapple/Chapple - Security+ Ch1.md",
-    "non-repudiation.md",
-    "1.0 Notes/Security +/1.0 Notes/Comptia_Testout/2.0 Threats, Vulnerabilities and Mitigations.md",
-    "1.0 Notes/Security +/Exam Objectives/5.1 Summarize elements of effective security governance.md",
-    "1.0 Notes/Security +/Exam Objectives/4.6 Given a scenario, implement and maintain identity and access management.md",
-    "1.0 Notes/Security +/Exam Objectives/2.5 Explain the purpose of mitigation techniques used to secure the enterprise..md",
-    "1.0 Notes/Security +/Exam Objectives/1.2 Summarize fundamental security concepts..md",
-    "1.0 Notes/Security +/Exam Objectives/1.1 Compare and contrast various types of security controls..md",
-    "1.0 Notes/Security +/1.0 Notes/Comptia_Testout/1.0 Security Concepts.md"
+    "non-repudiation.md"
   ]
 }
