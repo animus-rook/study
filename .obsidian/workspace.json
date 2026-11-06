@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "80e19f5214e48b81",
+            "id": "bc451e329d5ce537",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.0 Notes/Security +/1.0 Notes/Comptia_Testout/7.0 Vulnerability Management.md",
+                "file": "1.0 Notes/Security +/1.0 Notes/Comptia_Testout/8.0 Network and Endpoint Securtity.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -24,11 +24,11 @@
                   "showSearch": false,
                   "searchQuery": "",
                   "backlinkCollapsed": false,
-                  "unlinkedCollapsed": false
+                  "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "7.0 Vulnerability Management"
+              "title": "8.0 Network and Endpoint Securtity"
             }
           }
         ]
@@ -220,8 +220,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "80e19f5214e48b81",
+  "active": "bc451e329d5ce537",
   "lastOpenFiles": [
+    "2.0 Tools/README.md",
+    "1.0 Notes/Security +/1.0 Notes/Comptia_Testout/7.0 Vulnerability Management.md",
+    "1.0 Notes/Security +/1.0 Notes/Comptia_Testout/8.0 Network and Endpoint Securtity.md",
     "4.0 Key Terms_Concepts/Zero Trust.md",
     "4.0 Key Terms_Concepts/REST - Representational State transfer.md",
     "4.0 Key Terms_Concepts/RBAC - role based access control.md",
@@ -230,7 +233,6 @@
     "4.0 Key Terms_Concepts/AAA - Authentication-authorization and accounting.md",
     "4.0 Key Terms_Concepts/subjects-principals.md",
     "1.0 Notes/Security +/1.0 Notes/Comptia_Testout/5.0 Network Architecture.md",
-    "1.0 Notes/Security +/1.0 Notes/Comptia_Testout/7.0 Vulnerability Management.md",
     "8.0 Resource Bank/OSI Summary.png",
     "Attack Surface.md",
     "1.0 Notes/Security +/1.0 Notes/Comptia_Testout/4.0 Identity and Access Management.md",
@@ -241,7 +243,6 @@
     "AAA - Authentication/authorization and accounting.md",
     "AAA - Authentication",
     "subjects-principals.md",
-    "2.0 Tools/README.md",
     "7.0 Artifacts/Lab_20_-_Troubleshoot_a_Wireless_Connection.pdf",
     "7.0 Artifacts/Lab_19_-_Examine_NAT_on_a_Wireless_Router.pdf",
     "7.0 Artifacts/Lab_18_-_Configure_Basic_Wireless_Security.pdf",
@@ -266,7 +267,6 @@
     "1.0 Notes/Security +/1.0 Notes/Books/Sec+ Chapple/Chapple - Security+ Ch4.md",
     "1.0 Notes/Security +/1.0 Notes/Books/Sec+ Chapple/Chapple - Security+ Ch3.md",
     "1.0 Notes/Security +/1.0 Notes/Books/Sec+ Chapple/Chapple - Security+ Ch2.md",
-    "1.0 Notes/Security +/1.0 Notes/Books/Sec+ Chapple/Chapple - Security+ Ch1.md",
-    "non-repudiation.md"
+    "1.0 Notes/Security +/1.0 Notes/Books/Sec+ Chapple/Chapple - Security+ Ch1.md"
   ]
 }
